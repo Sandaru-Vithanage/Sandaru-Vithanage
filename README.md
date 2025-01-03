@@ -9,17 +9,15 @@
 
 </div>
 
-## 🎓 About Me
-
-```typescript
-const vehan = {
-    education: "Computer Systems & Network Engineering @ SLIIT",
-    passions: ["Web Development", "Linux", "Cybersecurity"],
-    currentlyLearning: ["System Administration", "Network Security"],
-    communities: ["KCD", "GDG", "AICSL"],
-    age: 21
-};
-```
+## 💫 About Me
+- 🎓 Computer Systems & Network Engineering Student at SLIIT
+- 💻 Passionate about Web Development, Systems Programming, and Cybersecurity
+- 🌱 Currently exploring Linux System Administration and Network Security
+- 🤝 Member of KCD, GDG & AICSL
+- 🚀 Open for collaboration on:
+  - Web Applications
+  - Linux Tools Development
+  - Server Infrastructure Projects
 
 ## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/Python-84.4%25-blue?style=for-the-badge&logo=python)
