@@ -11,7 +11,7 @@
 </div>
 
 ## 💫 About Me
-- 🎓 Computer Science Student at Informatics Institute of Technology
+- 🎓 Software Engineering Undergraduate at Informatics Institute of Technology
 - 💻 Passionate about Full Stack Development and Open Source Contributions
 - 🌱 Currently exploring Cloud Computing and DevOps
 - 🤝 Member of various tech communities and student programs
