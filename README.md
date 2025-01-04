@@ -2,7 +2,7 @@
 
 # Hi there, I'm Sandaru Vithanage 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&pause=1000&width=435&lines=Computer+Science+Student;Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&pause=1000&width=435&lines=Software+Engineering+Undergraduate;Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast)](https://git.io/typing-svg)
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sandaru-Vithanage&color=blueviolet)
