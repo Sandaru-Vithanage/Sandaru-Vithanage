@@ -38,6 +38,8 @@
 
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Sandaru-Vithanage&theme=radicalhide_border=true)](https://git.io/streak-stats)
 
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Sandaru-Vithanage&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
 
 </div>
 
