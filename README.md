@@ -40,6 +40,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Sandaru-Vithanage&theme=radical)](https://git.io/streak-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Sandaru-Vithanage&theme=dark&hide_border=true&border_radius=4.8)](https://git.io/streak-stats)
+
 </div>
 
 ## 🏆 GitHub Achievements
