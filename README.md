@@ -36,9 +36,9 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandaru-Vithanage&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sandaru-Vithanage&theme=radical&hide_border=true)
+#![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sandaru-Vithanage&theme=radical&hide_border=true)
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Sandaru-Vithanage&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Sandaru-Vithanage&theme=radicalhide_border=true)](https://git.io/streak-stats)
 
 
 </div>
